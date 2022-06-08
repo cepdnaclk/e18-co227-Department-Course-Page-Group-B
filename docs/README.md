@@ -20,11 +20,14 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Features of the course page](#other-sub-topics)
-3. [Technology Infrastructure](#technology-infrastructure)
-4. [Data Flow](#data-flow)
-5. [Links](#links)
+1. [Overview](#overview)
+2. [Problem](#problem)
+3. [Solution](#solution)
+4. [Features of the course page](#features)
+5. [Technology Infrastructure](#technology-infrastructure)
+6. [Data Flow](#data-flow)
+7. [UI Design](#design)
+8. [Links](#links)
 
 ---
 
@@ -32,9 +35,11 @@ This is a sample image, to show how to add images to your page. To learn more op
 
   After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also  offers many postgraduate courses for those students. Currently, the available web page is not flexible and it is not very detailed. So, the main intention of this project is to design a very detailed course page for postgraduates. 
 
-## Other Sub Topics
+## Problem
 
-.....
+## Proposed Solution
+
+## Features
 
 ## Technology Infrastructure
   1. HTML
@@ -46,7 +51,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Data Flow
 
-## Project Owner
+## UI Design
+
+## Product Owner
 -  Mr. Nuwan Jaliyagoda, [nuwanjaliyagoda@eng.pdn.ac.lk](nuwanjaliyagoda@eng.pdn.ac.lk)
   
 ## Scrum Master
