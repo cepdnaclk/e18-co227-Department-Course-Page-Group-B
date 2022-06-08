@@ -25,8 +25,10 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
-3. [Links](#links)
+2. [Features of the course page](#other-sub-topics)
+3. [Technology Infrastructure] (#technology-infrastructure)
+4. [Data Flow] (#data-flow)
+5. [Links](#links)
 
 ---
 
@@ -37,6 +39,17 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Other Sub Topics
 
 .....
+
+## Technology Infrastructure
+  1. HTML
+  2. CSS
+  3. Java Script
+  4. Jekyll
+  5. Json
+  6. GitHub
+
+## Data Flow
+
 
 ## Links
 
