@@ -4,12 +4,12 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: e18-co227-Department-Course-Page-Group-B
-title: Department Course Page
+title: Department Postgraduate Course Page
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Department Course Page
+# Department Postgraduate Course Page
 
 ---
 
@@ -32,7 +32,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also offers many postgraduate courses for those students. Currently, the available web page is not flexible and it is not very detailed. So, the main intention of this project is to design a very detailed course page for postgraduates. 
 
 ## Other Sub Topics
 
