@@ -32,7 +32,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
-After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also offers many postgraduate courses for those students. Currently, the available web page is not flexible and it is not very detailed. So, the main intention of this project is to design a very detailed course page for postgraduates. 
+  After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also  offers many postgraduate courses for those students. Currently, the available web page is not flexible and it is not very detailed. So, the main intention of this project is to design a very detailed course page for postgraduates. 
 
 ## Other Sub Topics
 
