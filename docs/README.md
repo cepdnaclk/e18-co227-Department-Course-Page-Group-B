@@ -18,21 +18,17 @@ This is a sample image, to show how to add images to your page. To learn more op
 ![Sample Image](./images/sample.png)
 
 
-## Team
--  E/18/010, ABEYWICKRAMA A.K.D.A.S, [e18010@eng.pdn.ac.lk](e18010@eng.pdn.ac.lk)
--  E/18/203, MADHUSANKA K.G.A.S, [e18203@eng.pdn.ac.lk](e18203@eng.pdn.ac.lk)
--  E/18/264, PRASANNA  N.W.G.L.M, [e18264@eng.pdn.ac.lk](e18264@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features of the course page](#other-sub-topics)
-3. [Technology Infrastructure] (#technology-infrastructure)
-4. [Data Flow] (#data-flow)
+3. [Technology Infrastructure](#technology-infrastructure)
+4. [Data Flow](#data-flow)
 5. [Links](#links)
 
 ---
 
-## Introduction
+## Overview
 
   After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also  offers many postgraduate courses for those students. Currently, the available web page is not flexible and it is not very detailed. So, the main intention of this project is to design a very detailed course page for postgraduates. 
 
@@ -50,6 +46,16 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Data Flow
 
+## Project Owner
+-  Mr. Nuwan Jaliyagoda, [nuwanjaliyagoda@eng.pdn.ac.lk](nuwanjaliyagoda@eng.pdn.ac.lk)
+  
+## Scrum Master
+-  Mr. Imesh Ekanayake, [imeshuk@eng.pdn.ac.lk](imeshuk@eng.pdn.ac.lk)
+
+## Project Developers
+-  E/18/010, ABEYWICKRAMA A.K.D.A.S, [e18010@eng.pdn.ac.lk](e18010@eng.pdn.ac.lk)
+-  E/18/203, MADHUSANKA K.G.A.S, [e18203@eng.pdn.ac.lk](e18203@eng.pdn.ac.lk)
+-  E/18/264, PRASANNA  N.W.G.L.M, [e18264@eng.pdn.ac.lk](e18264@eng.pdn.ac.lk)
 
 ## Links
 
