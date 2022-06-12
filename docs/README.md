@@ -7,33 +7,24 @@ repository-name: e18-co227-Department-Course-Page-Group-B
 title: Department Postgraduate Course Page
 ---
 
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
-
 # Department Postgraduate Course Page
-
 ---
-
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
-
-
 
 ## Table of Contents
 1. [Overview](#overview)
 2. [Problem](#problem)
-3. [Solution](#solution)
-4. [Features of the course page](#features)
+3. [Proposed Solution](#proposed-solution)
+4. [Features](#features)
 5. [Technology Infrastructure](#technology-infrastructure)
 6. [Data Flow](#data-flow)
-7. [UI Design](#design)
+7. [UI Design](#ui-design)
 8. [Links](#links)
 
 ---
 
 ## Overview
 
-  After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also  offers many postgraduate courses for those students. Currently, the available web page is not flexible and it is not very detailed. So, the main intention of this project is to design a very detailed course page for postgraduates. 
+ After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also  offers many postgraduate courses for those students. Currently, the available web page is not flexible and it is not very detailed. So, the main intention of this project is to design a very detailed course page for postgraduates. 
 
 ## Problem
 
@@ -42,12 +33,14 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Features
 
 ## Technology Infrastructure
-  1. HTML
-  2. CSS
-  3. Java Script
-  4. Jekyll
-  5. Json
-  6. GitHub
+
+  - HTML/CSS/Java Script - Used to develop and style the frontend
+  - Jekyll               - Used as a static site generator
+  - Json                 - Used to store the data
+  - GitHub Pages         - Used to host the Web Page
+
+![Sample Image](./images/technology_stack.png)
+  
 
 ## Data Flow
 
