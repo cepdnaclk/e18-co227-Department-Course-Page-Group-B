@@ -67,6 +67,9 @@ The available course page contains only the research-based postgraduate courses.
 ## Data Flow
 ---
 
+<p align="center">
+<img src="./images/Data_flow.jpg" width="700" height="430"></p>
+
 ## UI Design
 ---
 
