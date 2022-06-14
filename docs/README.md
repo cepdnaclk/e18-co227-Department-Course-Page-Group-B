@@ -15,7 +15,7 @@ title: Department Postgraduate Course Page
 1. [Overview](#overview)
 2. [Problem](#problem)
 3. [Proposed Solution](#proposed-solution)
-4. [Main Features](#features)
+4. [Features](#features)
 5. [Technology Infrastructure](#technology-infrastructure)
 6. [Data Flow](#data-flow)
 7. [UI Design](#ui-design)
@@ -37,7 +37,7 @@ The available course page contains only the research-based postgraduate courses.
 
 
 
-## Main Features
+## Features
 ---
 
   - Course Description
@@ -68,7 +68,7 @@ The available course page contains only the research-based postgraduate courses.
 ---
 
 <p align="center">
-<img src="./images/Data_flow.jpg" width="700" height="430"></p>
+<img src="./images/Data flow.jpg" width="700" height="430"></p>
 
 ## UI Design
 ---
