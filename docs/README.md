@@ -15,7 +15,7 @@ title: Department Postgraduate Course Page
 1. [Overview](#overview)
 2. [Problem](#problem)
 3. [Proposed Solution](#proposed-solution)
-4. [Features](#features)
+4. [Main Features](#features)
 5. [Technology Infrastructure](#technology-infrastructure)
 6. [Data Flow](#data-flow)
 7. [UI Design](#ui-design)
@@ -30,11 +30,26 @@ After graduating most of the students are seeking opportunities for higher studi
 ## Problem
 ---
 
+The available course page contains only the research-based postgraduate courses. Although the department does not offer any teaching postgraduate courses, the department is planning to offer around 25 teaching postgraduate courses including technical electives in near future. So, the department is in a need of a new postgraduate course page. 
+
 ## Proposed Solution
 ---
 
-## Features
+
+
+## Main Features
 ---
+
+  - Course Description
+  - Course Plan (Lecture/Lab/Tutorial hours and breakdown)
+  - Course Modules
+  - ILOs
+  - Prerequisites
+  - Credits
+  - Lecturers with details (may be changed from time to time)
+  - Reference Books
+  - Grade distribution
+
 
 ## Technology Infrastructure
 ---
