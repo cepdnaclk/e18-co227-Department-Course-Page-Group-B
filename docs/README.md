@@ -35,9 +35,9 @@ The available course page contains only the research-based postgraduate courses.
 ## Proposed Solution
 ---
 
-- develop a very informative web site to keep course information
-- separate web page for each course
-- detailed course page with statistical data(total registered students, grading average in previous years etc)
+- Develop a very informative web site to keep course information
+- Separate web pages for each course
+- Detailed course page with statistical data(total registered students, grading average in previous years etc)
 
 
 ## Features
@@ -73,7 +73,7 @@ Main features of a course page are,
 ---
 
 <p align="center">
-<img src="./images/Data flow.jpg" width="600" height="350"></p>
+<img src="./images/Data flow.jpg" width="700" height="350"></p>
 
 ## UI Design
 ---
