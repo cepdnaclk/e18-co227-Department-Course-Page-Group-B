@@ -35,7 +35,7 @@ The available course page contains only the research-based postgraduate courses.
 ## Proposed Solution
 ---
 
-- develop an very informative web site to keep course information
+- develop a very informative web site to keep course information
 - separate web page for each course
 - detailed course page with statistical data(total registered students, grading average in previous years etc)
 
