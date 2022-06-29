@@ -78,6 +78,19 @@ Main features of a course page are,
 ## UI Design
 ---
 
+<table align="center">
+  <tr>
+    <td align="center">Home Page</td>
+     <td align="center">All-Courses Page</td>
+     <td align="center">Single-Course Page</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./images/pg_home_page.png" width=270 height=520 ></td>
+    <td align="center"><img src="./images/pg_masters_page.png" width=270 height=520></td>
+    <td align="center"><img src="./images/course_page.png" width=270 height=630 ></td>
+  </tr>
+ </table>
+ 
 ## Product Owner
 ---
 -  Mr. Nuwan Jaliyagoda - [nuwanjaliyagoda@eng.pdn.ac.lk](nuwanjaliyagoda@eng.pdn.ac.lk)
