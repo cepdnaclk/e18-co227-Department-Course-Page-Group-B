@@ -49,7 +49,6 @@ Main features of a course page are,
   - Course Plan (Lecture/Lab/Tutorial hours and breakdown)
   - Course Modules
   - ILOs
-  - Prerequisites
   - Credits
   - Lecturers with details (may be changed from time to time)
   - Reference Books
