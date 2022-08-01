@@ -95,18 +95,18 @@ Main features of a course page are,
   </tr>
  </table>
  
-##Project Team
+## Project Team
 ---
 
-# Product Owner
+### Product Owner
 ---
 -  Mr. Nuwan Jaliyagoda - [nuwanjaliyagoda@eng.pdn.ac.lk](nuwanjaliyagoda@eng.pdn.ac.lk)
   
-# Scrum Master
+### Scrum Master
 ---
 -  Mr. Imesh Ekanayake - [imeshuk@eng.pdn.ac.lk](imeshuk@eng.pdn.ac.lk)
 
-# Project Developers
+### Project Developers
 ---
 -  E/18/010, Avishka Abeywickrama - [e18010@eng.pdn.ac.lk](e18010@eng.pdn.ac.lk)
 -  E/18/203, Shehan Madhusanka - [e18203@eng.pdn.ac.lk](e18203@eng.pdn.ac.lk)
