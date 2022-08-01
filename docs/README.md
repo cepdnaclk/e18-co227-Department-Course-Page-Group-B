@@ -56,8 +56,8 @@ Main features of a course page are,
   - Reference Books
   - Grade distribution
 
-p align="center">
-<img src="./images/course_details.png" width="700" height="430"></p>
+<p align="center">
+<img src="./images/course_details.png" width="700" height="600"></p>
 
 ## Technology Infrastructure
 ---
