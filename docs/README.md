@@ -25,7 +25,9 @@ title: Department Postgraduate Course Page
 ## Overview
 ---
 
-After graduating most of the students are seeking opportunities for higher studies. The Computer Engineering Department of the University of Peradeniya also offers many postgraduate courses for those students. Currently, the available web page is lack of details about the courses and conetent coverage. So, the main intention of this project is to design a very detailed course page for postgraduates. 
+This project contains a web site which will give information about the postgraduate courses offered by the Computer Engineering Department University of Peradeniya. After graduating most of the students are seeking opportunities for higher studies. 
+
+The Computer Engineering Department of the University of Peradeniya also offers many postgraduate courses for those students. Currently, the available web page is lack of details about the courses and content coverage. So, the main intention of this project is to design a very detailed course page for postgraduates. Existing web site only contains about the PhD and MPhil research based programmes.  
 
 ## Problem
 ---
@@ -54,6 +56,8 @@ Main features of a course page are,
   - Reference Books
   - Grade distribution
 
+p align="center">
+<img src="./images/course_details.png" width="700" height="430"></p>
 
 ## Technology Infrastructure
 ---
