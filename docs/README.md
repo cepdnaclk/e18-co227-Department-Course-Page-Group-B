@@ -68,6 +68,8 @@ Following figures are the figma designs for the proposed solution.
 ## Technology Infrastructure
 ---
 
+These technologies were used to design the layouts.
+
   - HTML/CSS/Java Script - Used to develop and style the frontend
   - Jekyll               - Used as a static site generator
   - Json                 - Used to store the data
@@ -116,7 +118,7 @@ Navigation bar has three tabs which are Home, All Courses and Staff.
 This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses. Also, options availbale for the postgraduates who are willing to follow those programmes.
 
 <p align="center">
-<img src="./images/home.png" width="700" height="600"></p>
+<img src="./images/home.png" width="700" height="900"></p>
 
 
 #### All courses page
