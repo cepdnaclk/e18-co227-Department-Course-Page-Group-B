@@ -113,15 +113,34 @@ Navigation bar has three tabs which are Home, All Courses and Staff.
   
 #### Home page
 
-This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses.  
+This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses. Also, options availbale for the postgraduates who are willing to follow those programmes.
+
+<p align="center">
+<img src="./images/home.png" width="700" height="600"></p>
 
 
 #### All courses page
 
+This has a dropdown menue to choose the course type. Available course types are
+  - Core Courses
+  - Technical Electives
+  - Research Topics
+ 
+User can also choose the "All" option which will display all the courses under above course categories.
+Each couse card contains
+  - Course category
+  - Course code and course name
+  - Number of credits
+  - Course coordinator
+  - View More option - this will redirect to the relevant single course page
+
+<p align="center">
+<img src="./images/all_courses.png" width="700" height="600"></p>
+
 
 #### Single course page
 
-  Main features of a course page are,
+This page describes the relevant course with more details. Main features of the course page are,
 
   - Course Description
   - Course Plan (Lecture/Lab/Tutorial hours and breakdown)
