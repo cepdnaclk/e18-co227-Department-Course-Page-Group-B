@@ -90,21 +90,31 @@ Following figures are the figma designs for the proposed solution.
 
 ### Navigation bar
 
-  Navigation bar has three tabs which are Home, All Courses and Staff.
+Navigation bar has three tabs which are Home, All Courses and Staff.
 
-  - Home
+  - Home - this will redirect to the home page
   - All Courses
-      - Ph.D.
-      - M.Phill.
-      - M.Sc Eng/M.Sc.
-  - Staff
+      - Ph.D. - this will redirect to the existing postgradutae page
+      - M.Phill. - this will redirect to the existing postgradutae page
+      - M.Sc Eng/M.Sc. -  this will redirect to the all courses page
+  - Staff - this links to the academic staff section in the people site
+
 
 ### Footer section
 
-
+  - Contact - contact information of the Computer Engineering Department University of Peradeniya 
+  - Courses - links to Ph.D. M.Phill and M.Sc.Eng / M.Sc.
+  - Quick Links
+      - Home
+      - Staff
+      - Edit this page
+      - Documentation
+  
+  
 ### Home page
 
-  This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses.  
+This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses.  
+
 
 ### All courses page
 
