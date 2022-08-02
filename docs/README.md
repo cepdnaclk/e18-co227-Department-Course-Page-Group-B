@@ -18,9 +18,10 @@ title: Department Postgraduate Course Page
 4. [UI Design](#ui-design)
 5. [Technology Infrastructure](#technology-infrastructure)
 6. [Data Flow](#data-flow) 
-7. [Features and Functionalities](#functionalities)
-8. [Project Team](#project-team)
-9. [Links](#links)
+7. [Features and Functionalities](#features-functionalities)
+8. [Release Plan](#plan)
+9. [Project Team](#project-team)
+10. [Links](#links)
 
 
 ## Overview
@@ -84,25 +85,33 @@ Following figures are the figma designs for the proposed solution.
 <img src="./images/Data flow.jpg" width="700" height="350"></p>
 
 
-## Functionalities
+## Features and Functionalities
 ---
 
 ### Navigation bar
 
+  Navigation bar has three tabs which are Home, All Courses and Staff.
+
+  - Home
+  - All Courses
+      - Ph.D.
+      - M.Phill.
+      - M.Sc Eng/M.Sc.
+  - Staff
 
 ### Footer section
 
 
 ### Home page
 
-This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses.  
+  This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses.  
 
 ### All courses page
 
 
 ### Single course page
 
-Main features of a course page are,
+  Main features of a course page are,
 
   - Course Description
   - Course Plan (Lecture/Lab/Tutorial hours and breakdown)
@@ -115,6 +124,10 @@ Main features of a course page are,
 
 <p align="center">
 <img src="./images/course_details.png" width="700" height="600"></p>
+
+
+## Release Plan
+---
 
 
 ## Project Team
