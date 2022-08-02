@@ -19,8 +19,9 @@ title: Department Postgraduate Course Page
 5. [Technology Infrastructure](#technology-infrastructure)
 6. [Data Flow](#data-flow)
 7. [UI Design](#ui-design)
-8. [Project Team](#project-team)
-9. [Links](#links)
+8. [Functionalities](#functionalities)
+9. [Project Team](#project-team)
+10. [Links](#links)
 
 
 ## Overview
@@ -95,8 +96,27 @@ Main features of a course page are,
   </tr>
  </table>
  
+## Functionalities
+---
+
+### Navigation bar
+
+
+### Footer section
+
+
+### Home page
+
+This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses.  
+
+### All courses page
+
+
+### Single course page
+
 ## Project Team
 ---
+
 
 #### Product Owner
 ---
