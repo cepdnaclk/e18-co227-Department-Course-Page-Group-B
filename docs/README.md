@@ -88,7 +88,7 @@ Following figures are the figma designs for the proposed solution.
 ## Features and Functionalities
 ---
 
-### Navigation bar
+#### Navigation bar
 
 Navigation bar has three tabs which are Home, All Courses and Staff.
 
@@ -100,7 +100,7 @@ Navigation bar has three tabs which are Home, All Courses and Staff.
   - Staff - this links to the academic staff section in the people site
 
 
-### Footer section
+#### Footer section
 
   - Contact - contact information of the Computer Engineering Department University of Peradeniya 
   - Courses - links to Ph.D. M.Phill and M.Sc.Eng / M.Sc.
@@ -111,15 +111,15 @@ Navigation bar has three tabs which are Home, All Courses and Staff.
       - Documentation
   
   
-### Home page
+#### Home page
 
 This page consits a description to postgraduate courses in Computer Engineering Department and also the durations of the courses.  
 
 
-### All courses page
+#### All courses page
 
 
-### Single course page
+#### Single course page
 
   Main features of a course page are,
 
