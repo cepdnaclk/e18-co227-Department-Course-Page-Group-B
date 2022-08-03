@@ -168,10 +168,6 @@ This page describes the relevant course with more details. Main features of the 
 <img src="./images/course_details.png" width="700" height="600"></p>
 
 
-## Release Plan
----
-
-
 ## Project Team
 ---
 
