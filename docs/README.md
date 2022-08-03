@@ -19,9 +19,8 @@ title: Department Postgraduate Course Page
 5. [Technology Infrastructure](#technology-infrastructure)
 6. [Data Flow](#data-flow) 
 7. [Features and Functionalities](#features-functionalities)
-8. [Release Plan](#plan)
-9. [Project Team](#project-team)
-10. [Links](#links)
+8. [Project Team](#project-team)
+9. [Links](#links)
 
 
 ## Overview
