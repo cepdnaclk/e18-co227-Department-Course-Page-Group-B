@@ -100,6 +100,7 @@ Navigation bar has three tabs which are Home, All Courses and Staff.
       - M.Phill. - this will redirect to the existing postgradutae page
       - M.Sc Eng/M.Sc. -  this will redirect to the all courses page
   - Staff - this links to the academic staff section in the people site
+  - Register - this will redirect to a google form (anyone can register for postgraduate courses by filling this google form)
 
 
 #### Footer section
