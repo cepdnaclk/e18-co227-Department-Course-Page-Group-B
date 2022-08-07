@@ -87,9 +87,9 @@ User can access postgraduate course pages through the department website.
 Users
   - Internal students
   - Graduated student
-  - Lectures
-  - Visiting lectures
-  - Academic person willing to join as a staff member
+  - Lecturers
+  - Visiting lecturers
+  - Academic persons who are willing to join as a staff member
 
 By clicking pg course page user can see the pg course programmes and other course related details offered by the department
 
